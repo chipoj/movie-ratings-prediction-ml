@@ -66,4 +66,4 @@ The model performed well on unseen data and shows good generalization. Feature e
 
 **Chipo Jokonya**  
 MSc Applied Data Science  
-[GitHub](https://github.com/chipoj) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/chipoj) | [LinkedIn](https://linkedin.com/in/chipojokonya)
